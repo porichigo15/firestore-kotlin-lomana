@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078608695942",
+    "project_id": "firestore-kotlin-lomana-7b5ac",
+    "storage_bucket": "firestore-kotlin-lomana-7b5ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078608695942:android:d7d5b5f9886869e1c23707",
+        "android_client_info": {
+          "package_name": "com.example.firestore.kotlin.lomana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078608695942-1s044ghiuti35mc85prc6m2gh463vijn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbTqAqmAC72H5ohg74SkjmZAmizOyMhtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078608695942-1s044ghiuti35mc85prc6m2gh463vijn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
